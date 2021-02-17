@@ -13,5 +13,6 @@
 ## Features
 - Discord Webhook
 - URL Header logged
+- Shows IPv4 & IPv6
 - Instant Request
 - IP,ISP,Status,Browser,Country,Region,City,Timezone,Postal/Zip,Coordinates
