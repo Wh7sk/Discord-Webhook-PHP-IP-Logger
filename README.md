@@ -8,6 +8,7 @@
 - $DEmbedColor = "FFFFFF"; //Change the color of the Discord Embed must be in hex "FFFFFF"
 
 ## Features
+- Discord Webhook
 - URL Header logged
 - Instant Request
 - IP,ISP,Status,Browser,Country,Region,City,Timezone,Postal/Zip,Coordinates
